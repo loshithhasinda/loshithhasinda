@@ -11,5 +11,3 @@ I'm Loshith from Sri Lanaka, and I am Software Engineer undergraduate at SLIIT. 
 * MongoDB
 
 - 🌱 I’m currently learning MERN Stack
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/IT20127046)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/loshith-samararathna-2162b1239//)
