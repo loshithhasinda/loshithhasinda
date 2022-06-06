@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @loshithhasinda
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+![Software Development](https://user-images.githubusercontent.com/106953056/172156435-cebc354b-b831-4c16-bcad-0fbbd51d007d.jpg)
 
-<!---
-loshithhasinda/loshithhasinda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Loshith Samararathna
+I'm Loshith from Sri Lanaka, and I am Software Engineer undergraduate at SLIIT. I really like to full-stack development. I enjoy learning languages and frameworks like Node JS, React JS, PHP Laravel. 
+
+## Skills and Experience
+* HTML, CSS, JS
+* React JS
+* Node JS
+* PHP - Laravel
+* MongoDB
